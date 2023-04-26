@@ -4,7 +4,7 @@
 
 - Use the `!` magic of IPYTHON
 
-> In IPython syntax, the exclamation mark (`!`) allows users to run `shell commands` from inside a Jupyter Notebook code cell
+- In IPython syntax, the exclamation mark (`!`) allows users to run `shell commands` from inside a Jupyter Notebook code cell
 
 ```python
 In [1]: !ping www.google.com
