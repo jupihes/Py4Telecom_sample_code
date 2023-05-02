@@ -20,3 +20,6 @@ Ping statistics for 142.250.74.132:
 Approximate round trip times in milli-seconds:
     Minimum = 136ms, Maximum = 155ms, Average = 142ms
 ```
+For more details consider  
+- [IPython and Shell Commands](https://jakevdp.github.io/PythonDataScienceHandbook/01.05-ipython-and-shell-commands.html)
+- [ipython reference](https://ipython.readthedocs.io/en/stable/interactive/reference.html)
